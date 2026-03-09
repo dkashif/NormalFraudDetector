@@ -1,0 +1,28 @@
+# Dataset — too large for GitHub
+*.csv
+*.tsv
+
+# Trained models — too large for GitHub
+*.pkl
+*.joblib
+*.model
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
